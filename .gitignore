@@ -10,11 +10,14 @@ tmp/
 *.tmp
 *.bak
 *.swp
+*.csproj
+*.bin
 *~.nib
 local.properties
 .classpath
 .settings/
 .loadpath
+
 
 # External tool builders
 .externalToolBuilders/
@@ -213,3 +216,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+*.info
